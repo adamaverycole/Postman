@@ -47,7 +47,7 @@ class Postman
         subs: new LinkedList
         history: new LinkedList
 
-        constructor: () ->
+  constructor: () ->
     cache = {}
   
   deliver: () ->
